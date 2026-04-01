@@ -70,8 +70,8 @@ my_experiment/
 ├── raw/        # Your original microscopy files (untouched)
 ├── tif/        # Converted TIFFs
 ├── prj/        # Z-projections
-├── crop/
-│   └── roi/    # Cropped images and ROIs
+├── crop/       # Cropped images
+│   └── roi/    # ROIs used to create the crops
 └── rgb/        # Final RGB exports
 ```
 
