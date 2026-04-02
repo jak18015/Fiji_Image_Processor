@@ -15,7 +15,7 @@ public class WelcomeMessage {
                         "Input the path for <code>Images/</code></html>"
         );
         gd.setInsets(10,0,0);
-        gd.addDirectoryField("Source Folder", "/Users/jkellerm/Library/CloudStorage/OneDrive-MichiganMedicine/0-active-projects/plvac/2026-03-20_mfs1-halo-dual-labeling/images/");
+        gd.addDirectoryField("Source Folder", "");
         gd.setInsets(10,0,10);
         gd.addMessage(
                 "<html>" +
