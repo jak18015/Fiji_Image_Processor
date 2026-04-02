@@ -3,7 +3,7 @@
 An ImageJ/Fiji plugin for automated batch processing of microscopy images. The plugin runs a full pipeline — converting raw microscopy files, generating projections, cropping, applying LUTs, and exporting RGB images — through a simple guided interface.\
 \
 \
-The point of this plugin is not to do anything radical. It's goal is two-fold: 
+The point of this plugin is not to do anything radical. The goal is two-fold: 
 - Speed up routine processing of raw microscopy data to presentable data
 - Make that processing repeatable
 
