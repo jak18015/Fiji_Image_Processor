@@ -1,4 +1,4 @@
-![Routine-Image-Processor Banner](path/to/my-banner.png)
+![Routine-Image-Processor Banner](assets/my-banner.png)
 
 
 # Routine-Image-Processor (RIP)
