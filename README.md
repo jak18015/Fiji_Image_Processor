@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/my-banner.png" alt="Project Banner" width="100%">
-</p>
+![Routine-Image-Processor Banner](path/to/my-banner.png)
 
 
 # Routine-Image-Processor (RIP)
